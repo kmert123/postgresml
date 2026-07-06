@@ -90,7 +90,7 @@ For more details, take a look at our [Quick Start with Docker](https://postgresm
 
 ## Ecosystem
 
-We have a number of other tools and libraries that are specifically designed to work with PostgreML. Remeber PostgresML is a postgres extension running inside of Postgres so you can connect with `psql` and use any of your favorite tooling and client libraries like [psycopg](https://www.psycopg.org/psycopg3/) to connect and run queries.
+We have a number of other tools and libraries that are specifically designed to work with PostgreML. Remember PostgresML is a postgres extension running inside of Postgres so you can connect with `psql` and use any of your favorite tooling and client libraries like [psycopg](https://www.psycopg.org/psycopg3/) to connect and run queries.
 
 <b>PostgresML Specific Client Libraries:</b>
 - [Korvus](https://github.com/postgresml/korvus) - Korvus is a Python, JavaScript, Rust and C search SDK that unifies the entire RAG pipeline in a single database query.
